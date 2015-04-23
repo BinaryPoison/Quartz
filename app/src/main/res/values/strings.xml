@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quartz</string>
+    <string name="title_activity_main">Quartz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_alarm">Alarm</string>
+    <string name="delete">Delete</string>
+    <string name="setting">Settings Activity</string>
+    <string name="sample_label">Sample Label</string>
+    <string name="sample_pattern">-..</string>
+    <string name="sample_description">Sample description for sample alarm</string>
+    <string name="action_add_alarm">Add Alarm</string>
+</resources>
